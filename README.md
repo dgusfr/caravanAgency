@@ -78,4 +78,4 @@ Uma aplicação web para a agência de turismo Caravan, oferecendo informações
 
 ## Autor
 
-Desenvolvido por Diego Franco.
+Desenvolvido no curso de Bootstrap da Origamid.
