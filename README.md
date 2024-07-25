@@ -22,13 +22,13 @@ Uma aplicação web para a agência de turismo Caravan, oferecendo informações
 
 <div style="display: flex; flex-direction: row;">
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="img/html.png" alt="Logo HTML" width="100"/>
+    <img src="img/html.png" alt="Logo HTML" width="250"/>
   </div>
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="img/css.png" alt="Logo CSS" width="100"/>
+    <img src="img/css.png" alt="Logo CSS" width="250"/>
   </div>
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="img/bootstrap.png" alt="Logo Bootstrap" width="100"/>
+    <img src="img/bootstrap.png" alt="Logo Bootstrap" width="250"/>
   </div>
 </div>
 
