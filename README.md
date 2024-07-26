@@ -79,12 +79,3 @@ Uma aplicação web para a agência de turismo Caravan, oferecendo informações
 ## Autor
 
 Desenvolvido no curso de Bootstrap da Origamid.
-
-Changes 1
-changes 2
-changes 3
-changes 4
-change 5
-changes 6}
-changes 7
-changes 8
