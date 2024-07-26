@@ -7,7 +7,7 @@ Uma aplicação web para a agência de turismo Caravan, oferecendo informações
 ## Interface
 
 <div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="900">
+  <img src="img/logo.png" alt="Imagem do Projeto" width="1000">
 </div>
 
 <br></br>
